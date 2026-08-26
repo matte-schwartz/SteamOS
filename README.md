@@ -6,9 +6,7 @@ This issue tracker is meant for community support and requests for improvements.
 SteamOS FAQ
 -----------
 
-http://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/
-
-Supplemental community-driven information can also be found in the [wiki](https://github.com/ValveSoftware/SteamOS/wiki) section of this repository.
+https://help.steampowered.com/en/faqs/view/79DC-B3D4-D352-A3CC
 
 Reporting Issues
 ----------------
@@ -32,7 +30,7 @@ If it has not been reported, create a new issue with at least the following info
    - `Settings -> System -> Advanced -> System Report -> Create Report`
    - It's necessary to mention your steam ID in the issue so that the corresponding system report can be retrieved.
 
-Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com) if they are lengthy. Information on log locations what what do with them, can be found on [wiki](https://github.com/ValveSoftware/SteamOS/wiki/Reviewing-log-information). 
+Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com) if they are lengthy.
 
 Conduct
 -------
